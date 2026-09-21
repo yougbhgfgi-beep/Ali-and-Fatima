@@ -1,4 +1,4 @@
-const CACHE_NAME = 'love-story-cache-v13'
+const CACHE_NAME = 'love-story-cache-v14'
 const URLS_TO_CACHE = ['/', '/index.html', '/manifest.json', '/maze.html', '/images/icon-192.png', '/images/icon-512.png', '/images/icon-512-maskable.png', '/images/apple-touch-icon.png', '/images/share-cover.jpg', '/images/photo-1.jpeg', '/images/photo-2.jpeg', '/images/photo-3.jpeg', '/images/photo-4.jpeg', '/images/photo-5.jpeg', '/images/photo-6.jpeg', '/images/photo-7.jpeg', '/images/photo-8.jpeg', '/images/photo-9.jpeg', '/images/photo-10.jpeg', '/assets/index-new.js', '/media/alb-wahed.mp3', '/media/video-1.mp4', '/media/video-2.mp4']
 
 self.addEventListener('install', (event) => {
